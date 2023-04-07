@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd"><suite name="BVT Test Suite">
+
+    <test verbose="2" preserve-order="true" name="C:/Users/akshay.gulhane/IdeaProjects/TestNGDemo_Maven">
+        <classes>
+            <class name="base.MyFirstTest">
+                <methods>
+                    <include name="Logintest"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>
